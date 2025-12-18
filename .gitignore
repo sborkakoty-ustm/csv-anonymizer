@@ -1,0 +1,5 @@
+uploads/
+output.csv
+__pycache__/
+*.pyc
+.env
